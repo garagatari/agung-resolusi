@@ -1,5 +1,5 @@
 Agung Resolusi
-- Dapat Beasiswa Kuliah
+- GPA >= 3.5
 - Mengikuti magang
 - Hafal kanji N5
 - Lancar berbahasa inggris
